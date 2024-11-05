@@ -1,20 +1,22 @@
+#05/11/2024
+#PROYECTO_GITHUB
+#INTEGRANTES_LUIS_DIAZ__JUAN_HERNANDEZ
 
-
-def umar(a, b):
-    return 
+def sumar(a, b):
+    return a+b
 
 def restar(a, b):
-    return 
+    return a-b
 
 def multiplicar(a, b):
     
-    return  
+    return a*b
 
 def dividir(a, b):
     if b == 0:
         print("Error: No se puede dividir por cero.")
         return None
-    return 
+    return a/b
 
 
 
