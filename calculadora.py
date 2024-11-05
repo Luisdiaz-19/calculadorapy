@@ -1,4 +1,6 @@
-
+#05/11/2024
+#PROYECTO_GITHUB
+#INTEGRANTES_LUIS_DIAZ__JUAN_HERNANDEZ
 
 def sumar(a, b):
     return a+b
